@@ -1,0 +1,87 @@
+[
+    {
+      "name":"Angel Lewis",
+      "address": "angel@gmail.com",
+      "location":"Seattle, WA"
+    },
+    {
+      "name":"Justin Dean",
+      "address": "justin@gmail.com",
+      "location":"Muscatine, IA"
+    },
+    {
+      "name":"Nora Blake",
+      "address": "nora@gmail.com",
+      "location":"Seattle, WA"
+    },
+    {
+      "name":"Russell Fox",
+      "address": "russell@gmail.com",
+      "location":"Albuquerque, NM"
+    },
+    {
+      "name":"Daryl Bradley",
+      "address": "daryl@gmail.com",
+      "location":"Buckeystown, MD"
+    },
+    {
+      "name":"Benjamin Gonzales",
+      "address": "benjamin@gmail.com",
+      "location":"Atlanta, GA"
+    },
+    {
+      "name":"Viola Francis",
+      "address": "viola@gmail.com",
+      "location":"Zanesville, OH"
+    },
+    {
+      "name":"Reginald Benson",
+      "address": "reginald@gmail.com",
+      "location":"Gilbert, AZ"
+    },
+    {
+      "name":"Glenda Ray",
+      "address": "ray@gmail.com",
+      "location":"Baltimore, MD"
+    },
+    {
+      "name":"Paula Vargas",
+      "address": "paula@gmail.com",
+      "location":"Baltimore, MD"
+    },
+    {
+      "name":"Mark Armstrong",
+      "address": "mark@gmail.com",
+      "location":"Hallandale Beach, FL"
+    },
+    {
+      "name":"Jaime Campbell",
+      "address": "jaime@gmail.com",
+      "location":"Zanesville, OH"
+    },
+    {
+      "name":"Mike Beck",
+      "address": "mike@gmail.com",
+      "location":"Garner, NC"
+    },
+    {
+      "name":"Ann Lowe",
+      "address": "ann@gmail.com",
+      "location":"Cabin John, MD"
+    },
+    {
+      "name":"Ryan Wolfe",
+      "address": "ryan@gmail.com",
+      "location":"Los Angeles, CA"
+    },
+    {
+      "name":"Dwayne Gutierrez",
+      "address": "dwayne@gmail.com",
+      "location":"San Jose, CA"
+    },
+    {
+      "name":"Bill Burke",
+      "address": "Bill@gmail.com",
+      "location":"Bakersfield, CA"
+    }
+  ]
